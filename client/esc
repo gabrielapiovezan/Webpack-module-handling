@@ -1,0 +1,23 @@
+[33mcommit 017b751318e68e8122ca4e567e6c78478b739d48[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: GabrielaPiovezan <gabrielapiovezan@live.com>
+Date:   Tue Mar 2 14:03:06 2021 -0300
+
+    prepar service for congig webpack server
+
+[33mcommit 1f0503449fbcfb9e24dc2fd295d83177d333f01b[m
+Author: GabrielaPiovezan <gabrielapiovezan@live.com>
+Date:   Tue Mar 2 13:42:32 2021 -0300
+
+    using cross-env
+
+[33mcommit 6b5470fce01369c431d637f9a53a2303c127daac[m
+Author: GabrielaPiovezan <gabrielapiovezan@live.com>
+Date:   Tue Mar 2 13:38:39 2021 -0300
+
+    build de produççao
+
+[33mcommit 4a0894e4259889883db2dc18be3458028334a2a6[m
+Author: GabrielaPiovezan <gabrielapiovezan@live.com>
+Date:   Tue Mar 2 13:21:36 2021 -0300
+
+    config loader
